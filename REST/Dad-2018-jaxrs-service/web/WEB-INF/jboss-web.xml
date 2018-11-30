@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+  <context-root>/Dad-2018-jaxrs-service</context-root>
+</jboss-web>
